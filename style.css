@@ -75,6 +75,21 @@ text-align: center;
   #about-me-div i {
       color:orange;
   }
+
+  #footer {
+      position: relative;
+      height:80px;
+      text-align: center;
+  }
+
+  #footer img {
+      height:30px;
+      width: 30px;
+      border-radius:5%;
+      padding-left: 10px;
+  }
+
+
  
  /* #image-div {
       height:500px;
